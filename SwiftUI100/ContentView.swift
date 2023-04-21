@@ -14,8 +14,24 @@ struct ContentView: View {
                 NavigationLink(destination: No1()) {
                     Text("No. 1")
                 }
-                Text("No. 2")
-                Text("No. 3")
+                NavigationLink(destination: No2()) {
+                    Text("No. 2")
+                }
+                NavigationLink(destination: No3()) {
+                    Text("No. 3")
+                }
+                NavigationLink(destination: No4()) {
+                    Text("No. 4")
+                }
+                NavigationLink(destination: No5()) {
+                    Text("No. 5")
+                }
+                NavigationLink(destination: No6()) {
+                    Text("No. 6")
+                }
+                NavigationLink(destination: No7()) {
+                    Text("No. 7")
+                }
             }
         }
     }
