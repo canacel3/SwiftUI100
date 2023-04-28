@@ -32,6 +32,12 @@ struct ContentView: View {
                 NavigationLink(destination: No7()) {
                     Text("No. 7")
                 }
+                NavigationLink(destination: No8()) {
+                    Text("No. 8")
+                }
+                NavigationLink(destination: No9()) {
+                    Text("No. 9")
+                }
             }
         }
     }
