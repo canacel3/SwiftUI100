@@ -25,6 +25,13 @@
 		9F72A7882A219D8F003F4F90 /* No18.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7872A219D8F003F4F90 /* No18.swift */; };
 		9F72A78A2A219FDB003F4F90 /* No19.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7892A219FDB003F4F90 /* No19.swift */; };
 		9F72A78C2A21A166003F4F90 /* No19_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A78B2A21A166003F4F90 /* No19_2.swift */; };
+		9F72A78E2A21A503003F4F90 /* No20.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A78D2A21A503003F4F90 /* No20.swift */; };
+		9F72A7902A21A6FA003F4F90 /* No21.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A78F2A21A6FA003F4F90 /* No21.swift */; };
+		9F72A7922A21ACC0003F4F90 /* No22.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7912A21ACC0003F4F90 /* No22.swift */; };
+		9F72A7942A21AE73003F4F90 /* No23.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7932A21AE73003F4F90 /* No23.swift */; };
+		9F72A7962A21B123003F4F90 /* No24.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7952A21B123003F4F90 /* No24.swift */; };
+		9F72A7982A21B3D8003F4F90 /* No25.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7972A21B3D8003F4F90 /* No25.swift */; };
+		9F72A79A2A21B653003F4F90 /* No26.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7992A21B653003F4F90 /* No26.swift */; };
 		9F8B02FE29FB9A5E0044A67B /* No8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8B02FD29FB9A5E0044A67B /* No8.swift */; };
 		9F8B030029FB9E960044A67B /* No9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F8B02FF29FB9E960044A67B /* No9.swift */; };
 		9FA8A48929D076D500F5573E /* SwiftUI100App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9FA8A48829D076D500F5573E /* SwiftUI100App.swift */; };
@@ -53,6 +60,13 @@
 		9F72A7872A219D8F003F4F90 /* No18.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No18.swift; sourceTree = "<group>"; };
 		9F72A7892A219FDB003F4F90 /* No19.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No19.swift; sourceTree = "<group>"; };
 		9F72A78B2A21A166003F4F90 /* No19_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No19_2.swift; sourceTree = "<group>"; };
+		9F72A78D2A21A503003F4F90 /* No20.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No20.swift; sourceTree = "<group>"; };
+		9F72A78F2A21A6FA003F4F90 /* No21.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No21.swift; sourceTree = "<group>"; };
+		9F72A7912A21ACC0003F4F90 /* No22.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No22.swift; sourceTree = "<group>"; };
+		9F72A7932A21AE73003F4F90 /* No23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No23.swift; sourceTree = "<group>"; };
+		9F72A7952A21B123003F4F90 /* No24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No24.swift; sourceTree = "<group>"; };
+		9F72A7972A21B3D8003F4F90 /* No25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No25.swift; sourceTree = "<group>"; };
+		9F72A7992A21B653003F4F90 /* No26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No26.swift; sourceTree = "<group>"; };
 		9F8B02FD29FB9A5E0044A67B /* No8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No8.swift; sourceTree = "<group>"; };
 		9F8B02FF29FB9E960044A67B /* No9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No9.swift; sourceTree = "<group>"; };
 		9FA8A48529D076D500F5573E /* SwiftUI100.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUI100.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -118,6 +132,13 @@
 				9F72A7872A219D8F003F4F90 /* No18.swift */,
 				9F72A7892A219FDB003F4F90 /* No19.swift */,
 				9F72A78B2A21A166003F4F90 /* No19_2.swift */,
+				9F72A78D2A21A503003F4F90 /* No20.swift */,
+				9F72A78F2A21A6FA003F4F90 /* No21.swift */,
+				9F72A7912A21ACC0003F4F90 /* No22.swift */,
+				9F72A7932A21AE73003F4F90 /* No23.swift */,
+				9F72A7952A21B123003F4F90 /* No24.swift */,
+				9F72A7972A21B3D8003F4F90 /* No25.swift */,
+				9F72A7992A21B653003F4F90 /* No26.swift */,
 			);
 			path = SwiftUI100;
 			sourceTree = "<group>";
@@ -212,17 +233,24 @@
 				9F72A7882A219D8F003F4F90 /* No18.swift in Sources */,
 				9F72A77E2A21976C003F4F90 /* No13.swift in Sources */,
 				9FA8A49729D3B98800F5573E /* No1.swift in Sources */,
+				9F72A78E2A21A503003F4F90 /* No20.swift in Sources */,
 				9F72A78A2A219FDB003F4F90 /* No19.swift in Sources */,
 				9F72A77C2A219546003F4F90 /* No12_2.swift in Sources */,
+				9F72A7942A21AE73003F4F90 /* No23.swift in Sources */,
 				9F8B030029FB9E960044A67B /* No9.swift in Sources */,
 				9F451D0429F280ED002E651C /* No5.swift in Sources */,
 				9F72A7862A219C29003F4F90 /* No17.swift in Sources */,
 				9FA8A48929D076D500F5573E /* SwiftUI100App.swift in Sources */,
+				9F72A7962A21B123003F4F90 /* No24.swift in Sources */,
+				9F72A7982A21B3D8003F4F90 /* No25.swift in Sources */,
 				9F72A78C2A21A166003F4F90 /* No19_2.swift in Sources */,
+				9F72A7922A21ACC0003F4F90 /* No22.swift in Sources */,
+				9F72A79A2A21B653003F4F90 /* No26.swift in Sources */,
 				9F451CFE29F27DDC002E651C /* No2.swift in Sources */,
 				9F451D0829F2847E002E651C /* No7.swift in Sources */,
 				9F451D0629F281D7002E651C /* No6.swift in Sources */,
 				9F72A77A2A219444003F4F90 /* No12.swift in Sources */,
+				9F72A7902A21A6FA003F4F90 /* No21.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
