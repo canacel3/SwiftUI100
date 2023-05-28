@@ -13,6 +13,14 @@
 		9F451D0429F280ED002E651C /* No5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F451D0329F280ED002E651C /* No5.swift */; };
 		9F451D0629F281D7002E651C /* No6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F451D0529F281D7002E651C /* No6.swift */; };
 		9F451D0829F2847E002E651C /* No7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F451D0729F2847E002E651C /* No7.swift */; };
+		9F5930122A2307F70036E45B /* No27.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5930112A2307F70036E45B /* No27.swift */; };
+		9F5930142A230A3E0036E45B /* No29.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5930132A230A3E0036E45B /* No29.swift */; };
+		9F5930162A230DB60036E45B /* No30.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5930152A230DB60036E45B /* No30.swift */; };
+		9F5930182A230E870036E45B /* No31.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5930172A230E870036E45B /* No31.swift */; };
+		9F59301A2A230FAD0036E45B /* No32.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F5930192A230FAD0036E45B /* No32.swift */; };
+		9F59301C2A2310CB0036E45B /* No33.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F59301B2A2310CB0036E45B /* No33.swift */; };
+		9F59301E2A2312EE0036E45B /* No34.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F59301D2A2312EE0036E45B /* No34.swift */; };
+		9F5930202A2314E30036E45B /* No35.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F59301F2A2314E30036E45B /* No35.swift */; };
 		9F72A7742A218DAA003F4F90 /* No10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7732A218DAA003F4F90 /* No10.swift */; };
 		9F72A7762A218E9C003F4F90 /* No11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7752A218E9C003F4F90 /* No11.swift */; };
 		9F72A77A2A219444003F4F90 /* No12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F72A7792A219444003F4F90 /* No12.swift */; };
@@ -48,6 +56,14 @@
 		9F451D0329F280ED002E651C /* No5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No5.swift; sourceTree = "<group>"; };
 		9F451D0529F281D7002E651C /* No6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No6.swift; sourceTree = "<group>"; };
 		9F451D0729F2847E002E651C /* No7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No7.swift; sourceTree = "<group>"; };
+		9F5930112A2307F70036E45B /* No27.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No27.swift; sourceTree = "<group>"; };
+		9F5930132A230A3E0036E45B /* No29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No29.swift; sourceTree = "<group>"; };
+		9F5930152A230DB60036E45B /* No30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No30.swift; sourceTree = "<group>"; };
+		9F5930172A230E870036E45B /* No31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No31.swift; sourceTree = "<group>"; };
+		9F5930192A230FAD0036E45B /* No32.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No32.swift; sourceTree = "<group>"; };
+		9F59301B2A2310CB0036E45B /* No33.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No33.swift; sourceTree = "<group>"; };
+		9F59301D2A2312EE0036E45B /* No34.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No34.swift; sourceTree = "<group>"; };
+		9F59301F2A2314E30036E45B /* No35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No35.swift; sourceTree = "<group>"; };
 		9F72A7732A218DAA003F4F90 /* No10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No10.swift; sourceTree = "<group>"; };
 		9F72A7752A218E9C003F4F90 /* No11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No11.swift; sourceTree = "<group>"; };
 		9F72A7792A219444003F4F90 /* No12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = No12.swift; sourceTree = "<group>"; };
@@ -139,6 +155,14 @@
 				9F72A7952A21B123003F4F90 /* No24.swift */,
 				9F72A7972A21B3D8003F4F90 /* No25.swift */,
 				9F72A7992A21B653003F4F90 /* No26.swift */,
+				9F5930112A2307F70036E45B /* No27.swift */,
+				9F5930132A230A3E0036E45B /* No29.swift */,
+				9F5930152A230DB60036E45B /* No30.swift */,
+				9F5930172A230E870036E45B /* No31.swift */,
+				9F5930192A230FAD0036E45B /* No32.swift */,
+				9F59301B2A2310CB0036E45B /* No33.swift */,
+				9F59301D2A2312EE0036E45B /* No34.swift */,
+				9F59301F2A2314E30036E45B /* No35.swift */,
 			);
 			path = SwiftUI100;
 			sourceTree = "<group>";
@@ -221,9 +245,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F5930162A230DB60036E45B /* No30.swift in Sources */,
 				9FA8A48B29D076D500F5573E /* ContentView.swift in Sources */,
 				9F72A7842A219B85003F4F90 /* No16.swift in Sources */,
 				9F72A7802A2197E2003F4F90 /* No14.swift in Sources */,
+				9F59301A2A230FAD0036E45B /* No32.swift in Sources */,
 				9F8B02FE29FB9A5E0044A67B /* No8.swift in Sources */,
 				9F72A7762A218E9C003F4F90 /* No11.swift in Sources */,
 				9F451D0229F27FE0002E651C /* No4.swift in Sources */,
@@ -231,15 +257,21 @@
 				9F72A7822A21998F003F4F90 /* No15.swift in Sources */,
 				9F451D0029F27F48002E651C /* No3.swift in Sources */,
 				9F72A7882A219D8F003F4F90 /* No18.swift in Sources */,
+				9F59301E2A2312EE0036E45B /* No34.swift in Sources */,
+				9F5930122A2307F70036E45B /* No27.swift in Sources */,
+				9F5930182A230E870036E45B /* No31.swift in Sources */,
 				9F72A77E2A21976C003F4F90 /* No13.swift in Sources */,
 				9FA8A49729D3B98800F5573E /* No1.swift in Sources */,
+				9F5930142A230A3E0036E45B /* No29.swift in Sources */,
 				9F72A78E2A21A503003F4F90 /* No20.swift in Sources */,
 				9F72A78A2A219FDB003F4F90 /* No19.swift in Sources */,
+				9F5930202A2314E30036E45B /* No35.swift in Sources */,
 				9F72A77C2A219546003F4F90 /* No12_2.swift in Sources */,
 				9F72A7942A21AE73003F4F90 /* No23.swift in Sources */,
 				9F8B030029FB9E960044A67B /* No9.swift in Sources */,
 				9F451D0429F280ED002E651C /* No5.swift in Sources */,
 				9F72A7862A219C29003F4F90 /* No17.swift in Sources */,
+				9F59301C2A2310CB0036E45B /* No33.swift in Sources */,
 				9FA8A48929D076D500F5573E /* SwiftUI100App.swift in Sources */,
 				9F72A7962A21B123003F4F90 /* No24.swift in Sources */,
 				9F72A7982A21B3D8003F4F90 /* No25.swift in Sources */,
@@ -385,8 +417,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -414,8 +445,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

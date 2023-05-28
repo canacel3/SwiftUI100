@@ -98,8 +98,37 @@ struct ContentView: View {
                     NavigationLink(destination: No26()) {
                         Text("No. 26")
                     }
+                    NavigationLink(destination: No27()) {
+                        Text("No. 27")
+                    }
+                    Text("No. 28(このページでやってることなので省略)")
+                    NavigationLink(destination: No29()) {
+                        Text("No. 29")
+                    }
+                    NavigationLink(destination: No30()) {
+                        Text("No. 30")
+                    }
                 } header: {
                     Text("No.21 ~ No.30")
+                }
+                Section {
+                    NavigationLink(destination: No31()) {
+                        Text("No. 31")
+                    }
+                    NavigationLink(destination: No32()) {
+                        Text("No. 32")
+                    }
+                    NavigationLink(destination: No33()) {
+                        Text("No. 33")
+                    }
+                    NavigationLink(destination: No34()) {
+                        Text("No. 34")
+                    }
+                    NavigationLink(destination: No35()) {
+                        Text("No. 35")
+                    }
+                } header: {
+                    Text("No.31 ~ No.40")
                 }
             }
         }
