@@ -178,8 +178,56 @@ struct ContentView: View {
                     NavigationLink(destination: No58()) {
                         Text("No. 58")
                     }
+                    NavigationLink(destination: No59()) {
+                        Text("No. 59")
+                    }
+                    Text("No. 60 (QGrid 使いたくなかったので省略)")
                 } header: {
                     Text("No.51 ~ No.60")
+                }
+                Section {
+                    NavigationLink(destination: No61()) {
+                        Text("No. 61")
+                    }
+                    NavigationLink(destination: No62()) {
+                        Text("No. 62")
+                    }
+                    NavigationLink(destination: No63()) {
+                        Text("No. 63")
+                    }
+                    NavigationLink(destination: No64()) {
+                        Text("No. 64 (バグります)")
+                    }
+                    NavigationLink(destination: No65()) {
+                        Text("No. 65")
+                    }
+                    NavigationLink(destination: No66()) {
+                        Text("No. 66")
+                    }
+                    NavigationLink(destination: No67()) {
+                        Text("No. 67")
+                    }
+                    NavigationLink(destination: No68()) {
+                        Text("No. 68")
+                    }
+                    NavigationLink(destination: No69()) {
+                        Text("No. 69")
+                    }
+                    NavigationLink(destination: No70()) {
+                        Text("No. 70")
+                    }
+                } header: {
+                    Text("No.61 ~ No.70")
+                }
+                Section {
+                    NavigationLink(destination: No71()) {
+                        Text("No. 71")
+                    }
+                    NavigationLink(destination: No72()) {
+                        Text("No. 72")
+                    }
+                } header: {
+                    Text("No.71 ~ No.80")
                 }
             }
         }

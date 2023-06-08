@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct No35: View {
-    let blocks = [
+    private let blocks = [
         Block(name: "丸石", englishName: "Cobblestone", imageName: "Cobblestone"),
         Block(name: "石", englishName: "Stone", imageName: "Stone"),
         Block(name: "土", englishName: "Dirt", imageName: "Dirt"),
@@ -26,7 +26,7 @@ struct No35: View {
 }
 
 struct BlockCard: View {
-    var block: Block
+    fileprivate var block: Block
     var body: some View {
         HStack {
             Image(block.imageName)
@@ -41,7 +41,7 @@ struct BlockCard: View {
     }
 }
 
-struct Block: Hashable {
+private struct Block: Hashable {
     let name: String
     let englishName: String
     let imageName: String
