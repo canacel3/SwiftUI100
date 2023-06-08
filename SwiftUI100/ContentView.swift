@@ -226,6 +226,18 @@ struct ContentView: View {
                     NavigationLink(destination: No72()) {
                         Text("No. 72")
                     }
+                    NavigationLink(destination: No73()) {
+                        Text("No. 73")
+                    }
+                    NavigationLink(destination: No74()) {
+                        Text("No. 74")
+                    }
+                    NavigationLink(destination: No75()) {
+                        Text("No. 75")
+                    }
+                    NavigationLink(destination: No76()) {
+                        Text("No. 76")
+                    }
                 } header: {
                     Text("No.71 ~ No.80")
                 }
