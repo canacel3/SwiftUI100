@@ -18,7 +18,7 @@ struct No26: View {
         Stone(name: "Stone"),
         Stone(name: "Smooth Stone")]
     @State private var isShowingAlert: Bool = false
-    @State var alertEntity: AlertEntity?
+    @State private var alertEntity: AlertEntity?
 
     struct AlertEntity {
         let title: String
