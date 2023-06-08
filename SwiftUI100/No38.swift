@@ -12,11 +12,10 @@ struct No38: View {
     var body: some View {
         Button(action: {
             isPresented.toggle()
-            
-        }), label: {
-            Text("Tap!")
-        }.sheet(isPresented: $isPresented {
-            EmptyView()
+        }) {
+            Text("Tap")
+        }.sheet(isPresented: $isPresented) {
+            EmptyView().interactiveDismissDisabled()
         }
     }
 }
